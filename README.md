@@ -1,2 +1,2 @@
 # CookBook-Your-Virtual-Kitchen-Assistant
-[Demo link](https://drive.google.com/file/d/1MSPrO69gndz_2-3uqmYGWJClKVThQUzR/view?usp=drivesdk)
+[Demo link](https://drive.google.com/file/d/1RZuXhbc_AG90dRUwlyp5dSjUsh7jMaYw/view?usp=drivesdk)
